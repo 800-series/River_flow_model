@@ -1,2 +1,2 @@
 # River_flow_model
-Predictive model of river flow rate using sklearn and tensorflow.
+See the document titled 'Loading_and_visualisng_data' above to see how I created a predictive model of river flow rate using sklearn and tensorflow.
